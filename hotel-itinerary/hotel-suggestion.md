@@ -26,6 +26,8 @@ Step 4: My Input to Ask ChatGPT:
   <li>Great, Can you put together a complete itinerary of hotels bookings for this trip, linking to the website of each hotel</li>
 </ol>
 
+[Attempt 1 Result itinerary](Attempt1-result.txt)
+
 ## 2nd Attemp with text
 [Click Here to See 2nd Attempt ChatGPT Conversation](https://chat.openai.com/share/fe5c9f89-e22c-44ee-8e2e-b85ac7a661b8)
 
@@ -45,6 +47,7 @@ Here is my Text Prompt:
  <li>Yes, but do that in the itinerary format</li>
 </ol>
 
+[Attempt 2 Result Itinerary](Attempt2-result.txt)
 
 ## Findings
 <ol>
