@@ -1,4 +1,5 @@
 # ChatGPT
+<p> Hotel-rating code: https://colab.research.google.com/drive/1PfWuOGtOHLAXDeo-y4weanmzo7i9Bhee?usp=sharing</p>
 <p>ChatGPT by OpenAI is artificial intelligence chatbot based on the company’s generative pre-trained transformer series of large language models (LLMs); </p>
 <p>Generating AI: from analyzing existing data to creating new things. The goal is to bring down the marginal cost of creation and knowledge work. Faster and more efficient to the workers, or threatening? The AI became bigger and bigger, even surpassing human performance benchmark. Expensive to use as a cloud service. As computers get cheaper, AI began to bloom from now on, we will be expecting killer apps to emerge. Text, Code, Images to Video/3D/Gaming AI. </p>
 <p>GPT-3:  Lack of logical reasoning, intentions, goals, and ability to understand cause and effect. Tend to be racist because of the tendency from data gathered.</p>
